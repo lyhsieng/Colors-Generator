@@ -1,2 +1,2 @@
 # Color-Generator
-Site: https://sieng-beatmaker.netlify.app/
+Site: https://sieng-colorsgenerator.netlify.app/
